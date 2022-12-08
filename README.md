@@ -6,3 +6,5 @@
   <li> Interested in Backend Developement and Microservices 🌱</li>
   <li> Seeking Opportunities for Summer 2023</li>
 </ul>
+
+<p>Reach out if you have any inquiries or opportunities to discuss! </p>
