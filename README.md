@@ -4,7 +4,7 @@
 <ul>
   <li> 3B Computer Engineering Student at the University of Waterloo 🎓</li>
   <li> Interested in Backend Developement and Microservices 🌱</li>
-  <li> Seeking Opportunities for Summer 2023</li>
+  <li> Seeking Opportunities for 2024</li>
 </ul>
 
 <p>Reach out if you have any inquiries or opportunities to discuss! </p>
