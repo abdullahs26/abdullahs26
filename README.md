@@ -4,7 +4,7 @@
 <ul>
   <li> 3B Computer Engineering Student at the University of Waterloo 🎓</li>  
   <li> Interested in Backend Developement and Microservices 🌱</li>
-  <li> Currenty a Software Engineer Intern @ ResQ 💻</li>
+  <li> Currently a Software Engineer Intern @ ResQ 💻</li>
   <li> Seeking Opportunities for 2024</li>
 </ul>
 
