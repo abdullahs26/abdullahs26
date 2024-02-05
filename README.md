@@ -2,8 +2,9 @@
 <img align="right" alt="coding" width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <h4 align="left">About me:</h4>
 <ul>
-  <li> 3B Computer Engineering Student at the University of Waterloo 🎓</li>
+  <li> 3B Computer Engineering Student at the University of Waterloo 🎓</li>  
   <li> Interested in Backend Developement and Microservices 🌱</li>
+  <li> Currenty a Software Engineer Intern @ ResQ 💻</li>
   <li> Seeking Opportunities for 2024</li>
 </ul>
 
